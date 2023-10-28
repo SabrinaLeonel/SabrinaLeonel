@@ -28,5 +28,5 @@ Eu sou legal :)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/SabrinaLeonel/SabrinaLeonel/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SabrinaLeonel/SabrinaLeonel/blob/output/github-contribution-grid-snake.svg)
 
