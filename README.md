@@ -26,7 +26,7 @@ Eu sou legal :)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -- <--!### 🔝 Top Contributed Repo -->
-![](https://github-contributor-stats.vercel.app/api?username=SabrinaLeonel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <!-- ![](https://github-contributor-stats.vercel.app/api?username=SabrinaLeonel&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 
 
